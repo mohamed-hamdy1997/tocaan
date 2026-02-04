@@ -18,7 +18,7 @@ A Laravel-based backend for an e-commerce platform, featuring user authenticatio
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/mohamed-hamdy1997/tocaan.git>
    cd tocaan
    ```
 
